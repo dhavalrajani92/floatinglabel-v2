@@ -1,0 +1,7 @@
+/*input focus bar*/
+.paper-input-bar {
+  background-color: #bfdb43;
+}
+.floating-label-completed label {
+  color: #bfdb43 !important;
+}
